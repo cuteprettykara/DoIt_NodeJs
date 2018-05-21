@@ -2,6 +2,8 @@
 /build/
 /bin/
 target/
+/node_modules
+/log
  
 # OS Files #
 .DS_Store
@@ -69,3 +71,5 @@ local.properties
  
 # PDT-specific
 .buildpath
+output2.txt
+output.txt
